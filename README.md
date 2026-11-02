@@ -1,4 +1,4 @@
-[Lire ce README en français](README.md)
+[Lire ce README en français](README.fr.md)
 # Introduction to neural networks with NumPy
 
 This repository gathers Python projects implemented only with NumPy. No deep learning library (PyTorch, Keras, scikit-learn, etc.) does the work for us: forward propagation, backpropagation, gradient descent, activation functions and loss functions are all coded entirely by hand.
